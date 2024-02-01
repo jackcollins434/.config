@@ -1,0 +1,17 @@
+import:
+  - ~/.config/alacritty/themes/argonaut.yaml
+window:
+  padding:
+    x: 6
+    y: 4 
+  opacity: 0.96
+  decorations: buttonless
+  startup_mode: Maximized
+font:
+  normal:
+    family: "Source Code Pro"
+  size: 16.0
+
+  offset:
+    x: 1 
+    y: 8 
