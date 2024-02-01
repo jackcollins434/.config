@@ -26,4 +26,5 @@ return {
 	{ 'saadparwaiz1/cmp_luasnip' },
 
 	{ 'tpope/vim-fugitive' },
+	{ 'mbbill/undotree' },
 }
